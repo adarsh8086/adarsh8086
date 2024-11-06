@@ -34,6 +34,5 @@
   [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
-⚡ **Fun Fact:** The `⚡` emoji means I’m always looking to energize my code with new ideas and creativity!
 
 
